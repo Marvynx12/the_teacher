@@ -11,4 +11,4 @@ class Viosam{
 }
 
 let mar = new Viosam;
-//console.log(mar)
+mar.print();
